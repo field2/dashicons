@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 18 18" version="1.1">
-  <g id="surface1">
-    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 7.613281 16.199219 L 10.25 16.199219 L 10.25 9.628906 L 12.457031 9.628906 L 12.789062 7.074219 L 10.25 7.074219 L 10.25 5.4375 C 10.25 4.699219 10.457031 4.195312 11.519531 4.195312 L 12.878906 4.195312 L 12.878906 1.898438 C 12.644531 1.871094 11.84375 1.800781 10.90625 1.800781 C 8.945312 1.800781 7.613281 2.996094 7.613281 5.183594 L 7.613281 7.074219 L 5.398438 7.074219 L 5.398438 9.628906 L 7.613281 9.628906 Z M 7.613281 16.199219 "/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g id="surface1">
+	<path d="M10,21.6h3.5v-8.8h2.9l0.4-3.4h-3.4V7.2c0-1,0.3-1.7,1.7-1.7H17V2.5c-0.3,0-1.4-0.1-2.6-0.1C11.7,2.4,10,4,10,6.9v2.5H7
+		v3.4h3V21.6z"/>
+</g>
 </svg>
